@@ -1,5 +1,4 @@
 # Bikram Adhikari
-================
 
 ### Contact Information
 
